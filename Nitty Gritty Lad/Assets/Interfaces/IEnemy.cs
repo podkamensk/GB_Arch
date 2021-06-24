@@ -1,6 +1,0 @@
-
-internal interface IEnemy : IUnit
-{
-
-
-}
